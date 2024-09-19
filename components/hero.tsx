@@ -3,7 +3,7 @@ import { FlipWords } from "./ui/FlipWords"
 
 
 const Hero = () => {
-    const words = ["tester", "designer", "security enthusiast"]
+    const words = ["tester", "designer", "analyst"]
     return (
         <div className="pb-20 pt-36">
             <div>
