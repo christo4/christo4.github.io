@@ -9,8 +9,14 @@ const Home = () => {
         <Hero />
         <Image
           src={profilePic}
-          width={500}
-          height={500}
+          width={50}
+          height={50}
+          alt="Picture of the author"
+        />
+        <Image
+          src={profilePic}
+          width={50}
+          height={50}
           alt="Picture of the author"
         />
       </div>
